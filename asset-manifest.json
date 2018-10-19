@@ -1,13 +1,13 @@
 {
   "main.css": "/reactclientpanel/static/css/main.76ae44b1.chunk.css",
-  "main.js": "/reactclientpanel/static/js/main.e1c4097c.chunk.js",
-  "main.js.map": "/reactclientpanel/static/js/main.e1c4097c.chunk.js.map",
+  "main.js": "/reactclientpanel/static/js/main.d242443e.chunk.js",
+  "main.js.map": "/reactclientpanel/static/js/main.d242443e.chunk.js.map",
   "static/js/1.b5207778.chunk.js": "/reactclientpanel/static/js/1.b5207778.chunk.js",
   "static/js/1.b5207778.chunk.js.map": "/reactclientpanel/static/js/1.b5207778.chunk.js.map",
   "runtime~main.js": "/reactclientpanel/static/js/runtime~main.eaba6af6.js",
   "runtime~main.js.map": "/reactclientpanel/static/js/runtime~main.eaba6af6.js.map",
   "static/css/main.76ae44b1.chunk.css.map": "/reactclientpanel/static/css/main.76ae44b1.chunk.css.map",
   "index.html": "/reactclientpanel/index.html",
-  "precache-manifest.b79c558d4d78edf9a1e4fcc8da9a5238.js": "/reactclientpanel/precache-manifest.b79c558d4d78edf9a1e4fcc8da9a5238.js",
+  "precache-manifest.f5bca9d7e8ebcb44c640888bcc3da7be.js": "/reactclientpanel/precache-manifest.f5bca9d7e8ebcb44c640888bcc3da7be.js",
   "service-worker.js": "/reactclientpanel/service-worker.js"
 }
