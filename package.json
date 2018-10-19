@@ -2,7 +2,7 @@
   "name": "react-fb-clientpanel",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wenhuaiqing.github.io",
+  "homepage": "https://wenhuaiqing.github.io/reactclientpanel",
   "dependencies": {
     "classnames": "^2.2.6",
     "firebase": "^5.5.4",
